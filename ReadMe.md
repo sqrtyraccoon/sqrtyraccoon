@@ -1,5 +1,5 @@
 # 💫 About Me:
-Playfully tickling website development
+plink
 
 
 ## 🌐 Socials:
